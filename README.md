@@ -1,7 +1,7 @@
 # ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hi, I'm CJValdez 👋
 ### I'm SoloStaker from Home
 
-![https://github.com/mouredev](./snoopmx_github_profile.png)
+![https://github.com/snoopmx](./snoopmx_github_profile.png)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/s?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/ValdezNWA)
