@@ -1,5 +1,5 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es CJValdez 👋
-### Freelance full-stack iOS & Android engineer
+# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hi, I'm CJValdez 👋
+### I'm SoloStaker from Home
 
 ![https://github.com/mouredev](./mouredev_github_profile.png)
 
@@ -10,11 +10,16 @@
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
 
-Soy ingeniero de software profesional desde 2010.
-
-He trabajado en distintas multinacionales del sector, creando [MoureDev](https://moure.dev) en 2015 para dedicarme a desarrollar aplicaciones móviles a tiempo completo, llegando a colaborar con empresas de distintas partes del mundo. He desarrollado más de 150 proyectos (alcanzando el número 1 en 30 países) y he creado mi propia startup.
-
-Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes sociales, compaginándolo con mi actividad como freelance. Nuestra comunidad de habla hispana sobre desarrollo desarrollo de software es una de las más grandes a nivel mundial (con cerca de dos millones de seguidores entre las distintas redes). Mi objetivo es devolver todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años, así como ayudar a que más personas puedan acceder a su estudio.
+Teacher in the area of technologies, networking, cybersecurity, blockchain, databases. passionate and skilled Blockchain and Cybersecurity Consultant, offering 11 years of relevant experience in the Education and IT area, with great attention to data and accuracy and the significant ability to function well in a team environment.
+Soft skills
+Analytical | Future focused | Problem resolution | Teamwork |
+Time management | Ability to prioritize | Action orientation |
+Leadership | Verbal Communication | Resiliency |
+Hard Skills
+Blockchain | NFT | Metaverse | DEFI | HelpDesk| Cloud Services |
+Linux | OSX |VPN | SSH | SSL | Shell | Exchange | Support Technician
+| Backups| Hosting | DBMS | Testing | ITIL | ARM | PHP | Python |
+Web Services | Cybersecurity | Big Data | and any other I can learn.
 
 > 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) in Developer Technologies
 > 
