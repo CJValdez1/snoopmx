@@ -77,51 +77,51 @@ Web Services | Cybersecurity | Big Data | and any other I can learn.
 <tr>
 <td>
 <a href="https://youtu.be/">
-<img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg">
+<img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/.jpg">
 </a>
 </td>
 <td>
 <a href="https://youtu.be/">
-<img src="http://i3.ytimg.com/vi/3UCZltG8iCY/maxresdefault.jpg">
+<img src="http://i3.ytimg.com/vi/3UCZltG8iCY/.jpg">
 </a>
 </td>
 <td>
 <a href="https://youtu.be/">
-<img src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg">
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://youtu.be/">
-<img src="http://i3.ytimg.com/vi/SavaU66KxQY/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/">
-<img src="http://i3.ytimg.com/vi/G0ga_YVQOaw/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/">
-<img src="http://i3.ytimg.com/vi/NJacVZx2fv8/maxresdefault.jpg">
+<img src="http://i3.ytimg.com/vi/3GymExBkKjE/.jpg">
 </a>
 </td>
 </tr>
 <tr>
 <td>
 <a href="https://youtu.be/">
-<img src="http://i3.ytimg.com/vi/_y9qQZXE24A/maxresdefault.jpg">
+<img src="http://i3.ytimg.com/vi/SavaU66KxQY/.jpg">
 </a>
 </td>
 <td>
 <a href="https://youtu.be/">
-<img src="http://i3.ytimg.com/vi/mIVbUb7shE8/maxresdefault.jpg">
+<img src="http://i3.ytimg.com/vi/G0ga_YVQOaw/.jpg">
 </a>
 </td>
 <td>
 <a href="https://youtu.be/">
-<img src="http://i3.ytimg.com/vi/zFbTXe1yFGA/maxresdefault.jpg">
+<img src="http://i3.ytimg.com/vi/NJacVZx2fv8/.jpg">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://youtu.be/">
+<img src="http://i3.ytimg.com/vi/_y9qQZXE24A/.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/">
+<img src="http://i3.ytimg.com/vi/mIVbUb7shE8/.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/">
+<img src="http://i3.ytimg.com/vi/zFbTXe1yFGA/.jpg">
 </a>
 </td>
 </tr>
