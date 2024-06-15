@@ -23,25 +23,21 @@ Web Services | Cybersecurity | Big Data | and any other I can learn.
 
 > 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) in Developer Technologies
 > 
-> ⭐️ [GitHub star](https://stars.github.com/profiles/mouredev/)
+> ⭐️ [GitHub star](https://stars.github.com/profiles/snoopmx/)
 
 ## Encuéntrame en:
 
-[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@mouredev)
-[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_TV-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@mouredevtv)
+[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@CJValdez)
+[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_TV-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@CJValdez.eth)
 </br>
-[![Twitch](https://img.shields.io/badge/Twitch-mouredev-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
-[![Discord](https://img.shields.io/badge/Discord-mouredev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
+[![Twitch](https://img.shields.io/badge/Twitch-mouredev-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/snoopmx)
+[![Discord](https://img.shields.io/badge/Discord-mouredev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://snoopmx.com/discord)
 </br>
-[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/mouredev)
-[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
-[![TikTok](https://img.shields.io/badge/TikTok-@mouredev-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@mouredev)
-[![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/mouredev)
+[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/ValdezNWA)
 </br>
-[![Link](https://img.shields.io/badge/Links-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://mouredev.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
-[![Udemy](https://img.shields.io/badge/Udemy-Brais_Moure-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930)
-[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
+[![Link](https://img.shields.io/badge/Links-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://uv.mx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/CJValdez)
+[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://uv.mx)
 
 # Algunos proyectos de la comunidad
 
@@ -80,51 +76,51 @@ Web Services | Cybersecurity | Big Data | and any other I can learn.
 <table style="width:100%">
 <tr>
 <td>
-<a href="https://youtu.be/Kp4Mvapo5kc">
+<a href="https://youtu.be/">
 <img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/3UCZltG8iCY">
+<a href="https://youtu.be/">
 <img src="http://i3.ytimg.com/vi/3UCZltG8iCY/maxresdefault.jpg">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/3GymExBkKjE">
+<a href="https://youtu.be/">
 <img src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg">
 </a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://youtu.be/SavaU66KxQY">
+<a href="https://youtu.be/">
 <img src="http://i3.ytimg.com/vi/SavaU66KxQY/maxresdefault.jpg">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/G0ga_YVQOaw">
+<a href="https://youtu.be/">
 <img src="http://i3.ytimg.com/vi/G0ga_YVQOaw/maxresdefault.jpg">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/NJacVZx2fv8">
+<a href="https://youtu.be/">
 <img src="http://i3.ytimg.com/vi/NJacVZx2fv8/maxresdefault.jpg">
 </a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://youtu.be/_y9qQZXE24A">
+<a href="https://youtu.be/">
 <img src="http://i3.ytimg.com/vi/_y9qQZXE24A/maxresdefault.jpg">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/mIVbUb7shE8">
+<a href="https://youtu.be/">
 <img src="http://i3.ytimg.com/vi/mIVbUb7shE8/maxresdefault.jpg">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/zFbTXe1yFGA">
+<a href="https://youtu.be/">
 <img src="http://i3.ytimg.com/vi/zFbTXe1yFGA/maxresdefault.jpg">
 </a>
 </td>
