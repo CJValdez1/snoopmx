@@ -10,7 +10,8 @@
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
 
-Teacher in the area of technologies, networking, cybersecurity, blockchain, databases. passionate and skilled Blockchain and Cybersecurity Consultant, offering 11 years of relevant experience in the Education and IT area, with great attention to data and accuracy and the significant ability to function well in a team environment.
+
+Educator in the area of technologies, networking, cybersecurity, blockchain, databases. passionate and skilled Blockchain and Cybersecurity Consultant, offering 11 years of relevant experience in the Education and IT area, with great attention to data and accuracy and the significant ability to function well in a team environment.
 Soft skills
 Analytical | Future focused | Problem resolution | Teamwork |
 Time management | Ability to prioritize | Action orientation |
@@ -20,6 +21,50 @@ Blockchain | NFT | Metaverse | DEFI | HelpDesk| Cloud Services |
 Linux | OSX |VPN | SSH | SSL | Shell | Exchange | Support Technician
 | Backups| Hosting | DBMS | Testing | ITIL | ARM | PHP | Python |
 Web Services | Cybersecurity | Big Data | and any other I can learn.
+
+CJValdez I’m Consultant, Investor, Researcher, Cypherpunk #Blockchain #Ethereum #Bitcoin #Web3 #Stakefromhome.
+
+•  Catedrático de la Universidad Veracruzana.
+•  Consultor Blockchain desde 2017.
+•  Ingeniero en Sistemas Computacionales.
+•  Maestro en Ciencias de la Computación.
+•  Doctor en Educación.
+Research:
+•  Blockchain.
+•  Web3.
+•  Criptomonedas.
+•  Criptoeconomía.
+•  Contratos Inteligentes.
+•  Finanzas Descentralizadas.
+•  Construcción de Metaversos, Tokens y NFT.
+Member of:
+•  Cypherpunk Citadel DAO.
+•  Darknet Academy.
+•  Padawan Polytechnik.
+•  Cypherpunk Army.
+•  Cypherpunk Nightmares.
+Projects:
+•  Instalación y puesta en marcha de nodo validador en Blockchain de Ethereum con protocolo de prueba de participación.
+•  Instalación y puesta en marcha de nodos en la Blockchain de Bitcoin con docker para la administración y gestión de recursos informáticos.
+•  Creación de criptomoneda utilizando la EVM con Solidity para puesta en marcha en la Blockchain de Binance Smart Chain.
+•  Proyecto NFT en la Blockchain de Polygon en beneficio para asilo de ancianos.
+•  Análisis de NFT con IPFS sobre la red de Kusama con airdrops en Yuletide.
+•  Análisis de la propuesta de la República de El Salvador y utilización del Lighting Network con Strike.
+•  Construcción de metaversos en The Sandbox con Unity para la Web3.
+
+Other projects:
+Professor of Titular Subject «C», Seniority: 11 years
+Academic entity: Facultad de Administración, Ingeniería – Contaduría – Psicología Región Veracruz
+Research Areas: Blockchain – Cryptocurrencies – CryptoEconomy – Smart Contracts – NFTs – Decentralized Finance (DEFI) – Distributed Databases.
+Recognition for academic performance.
+Level III in the Academic Productivity Stimulus Program
+Head of Group and Page of Social Networks of the Facultad de Administración.
+Participation in the Content Development Cell of the International Logistics and Customs Educational Program of the Logistics Information Systems Educational Experience. Finished.
+Head of Career of the Sistemas Computacionales Administrativos Program 2015-2022.
+Coordinator of the International Logística Internacional y Aduanas Program 2017-2022.
+Coordinator of Information Tecnologías de Información en las Organizaciones 2020-2022.
+Webmaster of the Web Portal of the Facultad de Administración 2015-2021.
+Member of the DarkNet Academy.
 
 > 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) in Developer Technologies
 > 
