@@ -45,17 +45,17 @@ Building metaverses in The Sandbox with Unity for Web3.
 
 ## Encuéntrame en:
 
-[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@CJValdez)
-[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_TV-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@CJValdez.eth)
+[![YouTube]()](https://youtube.com/@CJValdez)
+[![YouTube]()](https://youtube.com/@CJValdez.eth)
 </br>
-[![Twitch](https://img.shields.io/badge/Twitch-mouredev-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/snoopmx)
-[![Discord](https://img.shields.io/badge/Discord-mouredev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://snoopmx.com/discord)
+[![Twitch]()](https://twitch.tv/snoopmx)
+[![Discord]()](https://snoopmx.com/discord)
 </br>
-[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/ValdezNWA)
+[![Twitter]()](https://twitter.com/ValdezNWA)
 </br>
-[![Link](https://img.shields.io/badge/Links-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://uv.mx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/CJValdez)
-[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://uv.mx)
+[![Link]()](https://uv.mx)
+[![LinkedIn]()](https://www.linkedin.com/in/CJValdez)
+[![Web]()](https://uv.mx)
 
 # Algunos proyectos de la comunidad
 
