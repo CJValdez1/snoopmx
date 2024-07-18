@@ -22,40 +22,15 @@ Linux | OSX |VPN | SSH | SSL | Shell | Exchange | Support Technician
 | Backups| Hosting | DBMS | Testing | ITIL | ARM | PHP | Python |
 Web Services | Cybersecurity | Big Data | and any other I can learn.
 
-CJValdez I’m Consultant, Investor, Researcher, Cypherpunk #Blockchain #Ethereum #Bitcoin #Web3 #Stakefromhome.
+Im CJValdez, I graduated from the ITV with a degree in Computer Systems Engineering and a Master’s in Computer Science. With several years of teaching experience at the Universidad Veracruzana, I have held significant roles such as Head of the Administrative Computer Systems Program and Coordinator of the Information Technology Educational Program in the Faculty of Administration in Veracruz, México. I have been in crypto since 2017. I have contributed to the development of educational programs and have been integrating Blockchain topics into the curriculum since 2019. Currently, I teach in the Computational Technologies department and serve as a Blockchain consultant at the Universidad Veracruzana. I have taught courses on Web3, Cryptoeconomics, and Blockchain business models at both undergraduate and graduate levels. Additionally, I have advised research projects, participated as a jury member, and developed innovative projects like implementing validator nodes in test networks for my classes. My experience as a SoloStaker, running validator nodes from home in various consensus mechanisms such as Proof of Work (PoW) and Proof of Stake (PoS), underscores my commitment to emerging technology. I am also an active member of the Cypherpunk Citadel DAO, SandboxDAO, SoloStakersUnion, etc. Since 2022, I have implemented an Ethereum validator node on the mainnet in PoS, making me a pioneer in Mexico in adopting the SoloHomeStaker philosophy. Beyond my passion for technology, I enjoy playing sports and remain committed to continuous education in innovative projects. I am a dedicated professional passionate about technological innovation, ready to inspire, build, develop, and collaborate in the Ethereum Blockchain world.
+Im the founder of Ethereum Veracruz, it is growing and is mainly composed of students and teachers of the Information Technology educational program in the Organizations of the Universidad Veracruzana in the city of Veracruz, Ver. This community arises from the need to have a program innovative educational from its planning in 2019 to its launch with the first generation in 2020, with a strong emphasis on emerging technologies such as artificial intelligence, the Internet of Things (IoT), Big Data, Cybersecurity and, of course, Blockchain .
+Our community not only focuses on theoretical learning, but also on the practical application of these technologies, fostering an environment of collaboration and continuous growth in the field of emerging technologies.
 
-•  Catedrático de la Universidad Veracruzana.
-•  Consultor Blockchain desde 2017.
-•  Ingeniero en Sistemas Computacionales.
-•  Maestro en Ciencias de la Computación.
-•  Doctor en Educación.
-Research:
-•  Blockchain.
-•  Web3.
-•  Criptomonedas.
-•  Criptoeconomía.
-•  Contratos Inteligentes.
-•  Finanzas Descentralizadas.
-•  Construcción de Metaversos, Tokens y NFT.
-Member of:
-•  Cypherpunk Citadel DAO.
-•  Darknet Academy.
-•  Padawan Polytechnik.
-•  Cypherpunk Army.
-•  Cypherpunk Nightmares.
-Projects:
-•  Instalación y puesta en marcha de nodo validador en Blockchain de Ethereum con protocolo de prueba de participación.
-•  Instalación y puesta en marcha de nodos en la Blockchain de Bitcoin con docker para la administración y gestión de recursos informáticos.
-•  Creación de criptomoneda utilizando la EVM con Solidity para puesta en marcha en la Blockchain de Binance Smart Chain.
-•  Proyecto NFT en la Blockchain de Polygon en beneficio para asilo de ancianos.
-•  Análisis de NFT con IPFS sobre la red de Kusama con airdrops en Yuletide.
-•  Análisis de la propuesta de la República de El Salvador y utilización del Lighting Network con Strike.
-•  Construcción de metaversos en The Sandbox con Unity para la Web3.
+Academics:
 
-Other projects:
-Professor of Titular Subject «C», Seniority: 11 years
-Academic entity: Facultad de Administración, Ingeniería – Contaduría – Psicología Región Veracruz
-Research Areas: Blockchain – Cryptocurrencies – CryptoEconomy – Smart Contracts – NFTs – Decentralized Finance (DEFI) – Distributed Databases.
+Professor of Titular Subject "C", Seniority:
+Academic entity: Facultad de Administración, Ingeniería - Contaduría - Psicología Región Veracruz
+Research Areas: Blockchain - Cryptocurrencies - CryptoEconomy - Smart Contracts - NFTs - Decentralized Finance (DEFI) - Distributed Databases.
 Recognition for academic performance.
 Level III in the Academic Productivity Stimulus Program
 Head of Group and Page of Social Networks of the Facultad de Administración.
@@ -65,6 +40,19 @@ Coordinator of the International Logística Internacional y Aduanas Program 2017
 Coordinator of Information Tecnologías de Información en las Organizaciones 2020-2022.
 Webmaster of the Web Portal of the Facultad de Administración 2015-2021.
 Member of the DarkNet Academy.
+Crypto user since 2017.
+Topics Web3, Blockchain in Curriculums since 2019.
+Educator crypto since 2020.
+Solo Staker from Home since 2022.
+Member StakersUnion since 2024.
+Some Projects:
+Installation and start-up of a validator node in the Ethereum Blockchain with proof-of-stake protocol.
+Installation and start-up of nodes in the Bitcoin Blockchain with docker for the administration and management of computing resources.
+Creation of cryptocurrency using the EVM with Solidity for implementation on the Binance Smart Chain Blockchain.
+NFT project on the Polygon Blockchain to benefit nursing homes.
+NFT analysis with IPFS on the Kusama network with airdrops at Yuletide.
+Analysis of the proposal of the Republic of El Salvador and use of the Lighting Network with Strike.
+Building metaverses in The Sandbox with Unity for Web3.
 
 > 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) in Developer Technologies
 > 
