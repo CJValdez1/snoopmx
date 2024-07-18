@@ -2,25 +2,10 @@
 ### I'm SoloStaker from Home
 
 ![https://github.com/snoopmx](./snoopmx_github_profile.png)
-
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/s?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/ValdezNWA)
 [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://snoopmx.com/discord)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/ValdezNWA)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
-
-
-Educator in the area of technologies, networking, cybersecurity, blockchain, databases. passionate and skilled Blockchain and Cybersecurity Consultant, offering 11 years of relevant experience in the Education and IT area, with great attention to data and accuracy and the significant ability to function well in a team environment.
-Soft skills
-Analytical | Future focused | Problem resolution | Teamwork |
-Time management | Ability to prioritize | Action orientation |
-Leadership | Verbal Communication | Resiliency |
-Hard Skills
-Blockchain | NFT | Metaverse | DEFI | HelpDesk| Cloud Services |
-Linux | OSX |VPN | SSH | SSL | Shell | Exchange | Support Technician
-| Backups| Hosting | DBMS | Testing | ITIL | ARM | PHP | Python |
-Web Services | Cybersecurity | Big Data | and any other I can learn.
+![GitHub Followers](https://img.shields.io/github/followers/snoopmx?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/snoopmx?style=social)
 
 Im CJValdez, I graduated from the ITV with a degree in Computer Systems Engineering and a Master’s in Computer Science. With several years of teaching experience at the Universidad Veracruzana, I have held significant roles such as Head of the Administrative Computer Systems Program and Coordinator of the Information Technology Educational Program in the Faculty of Administration in Veracruz, México. I have been in crypto since 2017. I have contributed to the development of educational programs and have been integrating Blockchain topics into the curriculum since 2019. Currently, I teach in the Computational Technologies department and serve as a Blockchain consultant at the Universidad Veracruzana. I have taught courses on Web3, Cryptoeconomics, and Blockchain business models at both undergraduate and graduate levels. Additionally, I have advised research projects, participated as a jury member, and developed innovative projects like implementing validator nodes in test networks for my classes. My experience as a SoloStaker, running validator nodes from home in various consensus mechanisms such as Proof of Work (PoW) and Proof of Stake (PoS), underscores my commitment to emerging technology. I am also an active member of the Cypherpunk Citadel DAO, SandboxDAO, SoloStakersUnion, etc. Since 2022, I have implemented an Ethereum validator node on the mainnet in PoS, making me a pioneer in Mexico in adopting the SoloHomeStaker philosophy. Beyond my passion for technology, I enjoy playing sports and remain committed to continuous education in innovative projects. I am a dedicated professional passionate about technological innovation, ready to inspire, build, develop, and collaborate in the Ethereum Blockchain world.
 Im the founder of Ethereum Veracruz, it is growing and is mainly composed of students and teachers of the Information Technology educational program in the Organizations of the Universidad Veracruzana in the city of Veracruz, Ver. This community arises from the need to have a program innovative educational from its planning in 2019 to its launch with the first generation in 2020, with a strong emphasis on emerging technologies such as artificial intelligence, the Internet of Things (IoT), Big Data, Cybersecurity and, of course, Blockchain .
