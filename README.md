@@ -1,8 +1,8 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hi, I'm CJValdez 👋
+# ![]() Hi, I'm CJValdez 👋
 ### I'm SoloStaker from Home
 
 ![https://github.com/snoopmx](./snoopmx_github_profile.png)
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://snoopmx.com/discord)
+[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://snoopmx.com/discord)****
 [![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/ValdezNWA)
 ![GitHub Followers](https://img.shields.io/github/followers/snoopmx?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/snoopmx?style=social)
