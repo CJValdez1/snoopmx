@@ -33,13 +33,3 @@ NFT analysis with IPFS on the Kusama network with airdrops at Yuletide.
 Analysis of the proposal of the Republic of El Salvador and use of the Lighting Network with Strike.
 Building metaverses in The Sandbox with Unity for Web3.
 
-> 👥 
-
-> ⭐️ [GitHub star](https://stars.github.com/profiles/snoopmx/)
-
-
-[![LinkedIn]()](https://www.linkedin.com/in/CJValdez)
-[![Web]()](https://uv.mx)
-
-
-
