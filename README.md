@@ -1,21 +1,28 @@
-# ![]() Hi, I'm CJValdez 👋
-CJValdez is a educator, member at Universidad Veracruzana, with a background in systems engineering and computer science. He has held significant roles, including Head of the Administrative Computer Systems Program and Coordinator of the Educational Program in Information Technologies in Organizations and International Logistics and Customs at the Faculty of Administration in the Veracruz Region. In these roles, he has contributed to the design and redesign of educational programs, integrating mandatory and official knowledge of Web3, Cryptoeconomics, and Blockchain.
+# ![]() My name is CJValdez, and I’m a SoloHomeStaker, educator, cypherpunk and builder deeply committed to the Ethereum ecosystem since 2017. I’m the Founder of Ethereum Veracruz, a community that bridges academia and Web3, and I serve as Community Lead at Stakers Union and Delegate at Obol Collective. I’m also a full-time Educator at Universidad Veracruzana (uv.mx), where I’ve taught emerging technologies for over 14 years, integrating Ethereum and blockchain into formal education since 2019.
 
-In his teaching career, he has delivered subjects covering topics such as Web3, Cryptoeconomics, Metaverses, and Blockchain as business models, both at the undergraduate and graduate levels. Additionally, he has supervised research projects in Blockchain, specifically on public networks like Bitcoin and Ethereum, and has driven innovative projects with students, including the implementation of validator nodes in Ethereum test networks.
+In 2022, I became the first and only SoloHomeStaker in Mexico, launching and maintaining a solo validator node on Ethereum Mainnet. Through this initiative, I champion decentralization, security, and privacy, promoting home staking practices across Latin America. I actively contribute to communities like ETHStaker, CoinCashew, Rancho Stake, Cypherpunk Citadel DAO, and I’m also a builder at BuidlGuidl.
 
-Since 2017, CJValdez has specialized in Blockchain consulting. He has implemented a staking node on the Ethereum Blockchain using the Proof of Stake protocol from home, making him one of the pioneers in Mexico in adopting the SoloHomeStaker philosophy, which promotes privacy, security, and decentralization in Latin America. He has also installed and managed nodes on the Bitcoin Blockchain using Docker to contribute to the global decentralization of the network.
+Ethereum Veracruz was born from a growing student interest in blockchain. Since 2020, over 300 students from our Information Technologies in Organizations degree program have taken mandatory courses in Blockchain, DeFi, and Web3. In 2024, we organized the regional onboarding event, participated in ETHGlobal, Ethereum México, and DEVCON7, and were recognized as one of the most impactful blockchain communities in Mexico in the first year.
 
-Throughout his career, he has created a cryptocurrency using the Ethereum Virtual Machine with Solidity, deploying it on the Binance Smart Chain to analyze supply and demand laws. Additionally, he has developed an NFT collection on the Polygon Blockchain to benefit a nursing home.
+I’m motivated by Ethereum’s potential to promote digital sovereignty, education as a public good, and a decentralized future built by and for Latin America. My goal is to empower Latin American students to become active participants in the Ethereum ecosystem—not just users, but builders and developers of it.
 
-He is an active contributor to DAOs (Decentralized Autonomous Organizations) such as SoloStakersUnion, SandboxDAO, and Cypherpunk Citadel DAO. He is a Builder in the SpeedRunEthereum community's BuidlGuidl, founder and Community Manager of Ethereum Veracruz, and also collaborates with ETH-Staker.
+🔗 WebPage: https://www.uv.mx/personal/carvaldez/
+🔗 LinkedIn: linkedin.com/in/carvaldez
+🐦 Twitter: twitter.com/CJValdezETH
+🐦 Twitter: twitter.com/ETH_Veracruz
+🌐 ENS: cjvaldez.eth
+🌐 ENS: ethveracruz.eth
+💬 Warpcast: https://warpcast.com/cjvaldez
+💻 GitHub: https://github.com/cjvaldez1
+💻 GitHub (Community): https://github.com/ethereum-Veracruz-UV/
+💻 BuidlGuidl: https://app.buidlguidl.com/builders/0x66471666Ad5474c14Ed35F1d8545d11B27E16dd2
+📲 Telegram: https://t.me/CJValdez1
+
 
 Academics:
 
-Professor of Titular Subject "C", Seniority:
-Academic entity: Facultad de Administración, Ingeniería - Contaduría - Psicología Región Veracruz
 Research Areas: Blockchain - Cryptocurrencies - CryptoEconomy - Smart Contracts - NFTs - Decentralized Finance (DEFI) - Distributed Databases.
 Recognition for academic performance.
-Level III in the Academic Productivity Stimulus Program
 Head of Group and Page of Social Networks of the Facultad de Administración.
 Participation in the Content Development Cell of the International Logistics and Customs Educational Program of the Logistics Information Systems Educational Experience. Finished.
 Head of Career of the Sistemas Computacionales Administrativos Program 2015-2022.
